@@ -1,3 +1,9 @@
+## [2.0.1](https://github.com/luoyi58624/luoyi_dart_test/compare/v2.0.0...v2.0.1) (2024-04-29)
+
+
+### Bug Fixes
+
+* 修复更新日志排版 ([3bc17fc](https://github.com/luoyi58624/luoyi_dart_test/commit/3bc17fcdaac28be13fe312ae49533cfa65e43421))
 
 ## [2.0.0](https://github.com/luoyi58624/luoyi_dart_test/compare/v1.2.0...v2.0.0) (2024-04-29)
 
