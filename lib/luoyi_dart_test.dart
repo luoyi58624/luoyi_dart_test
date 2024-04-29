@@ -7,3 +7,7 @@ void demo() {
 void hihi() {
   print('hihi');
 }
+
+void didi() {
+  print('didi');
+}
