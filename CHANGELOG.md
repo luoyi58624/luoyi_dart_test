@@ -20,6 +20,22 @@
 * update release-please.yml ([eed7b73](https://github.com/luoyi58624/luoyi_dart_test/commit/eed7b731a312ad57c7df14de1f2d0e4b068de406))
 * 修复demo函数 ([0dc2dba](https://github.com/luoyi58624/luoyi_dart_test/commit/0dc2dba33b5c622ad9d17ac729190042f4d2226a))
 
+## [2.0.0](https://github.com/luoyi58624/luoyi_dart_test/compare/v1.2.0...v2.0.0) (2024-04-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* 更新日志
+
+### Features
+
+* 更新日志 ([b23b0e0](https://github.com/luoyi58624/luoyi_dart_test/commit/b23b0e0d6a388fe4920d9ef4c3ae847af9c4e8ab))
+
+
+### Bug Fixes
+
+* update lwawa ([304cf51](https://github.com/luoyi58624/luoyi_dart_test/commit/304cf512228bf255b44346c4c4aff5f5cdef3b28))
+
 ## [1.1.0](https://github.com/luoyi58624/luoyi_dart_test/compare/v1.0.3...v1.1.0) (2024-04-29)
 
 
