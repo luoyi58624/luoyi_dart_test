@@ -1,3 +1,5 @@
 library luoyi_dart_test;
 
-void demo() {}
+void demo() {
+  print('xxx');
+}
