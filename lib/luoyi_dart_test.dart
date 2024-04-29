@@ -13,7 +13,7 @@ void didi() {
 }
 
 void log() {
-  print('log');
+  print('logxxxxx');
 }
 
 void wawa() {
