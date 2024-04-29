@@ -17,5 +17,5 @@ void log() {
 }
 
 void wawa() {
-  print('wawa行啊新思想');
+  print('axasxasxasxas');
 }
