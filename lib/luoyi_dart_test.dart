@@ -17,5 +17,5 @@ void log() {
 }
 
 void wawa() {
-  print('wawa');
+  print('xxxxxxx');
 }
