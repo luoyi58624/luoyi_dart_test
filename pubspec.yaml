@@ -1,6 +1,7 @@
 name: luoyi_dart_test
 description: dart test
 version: 1.0.0
+repository: https://github.com/luoyi58624/luoyi_dart_test
 
 environment:
   sdk: ^3.3.3
