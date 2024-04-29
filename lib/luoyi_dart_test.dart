@@ -11,3 +11,7 @@ void hihi() {
 void didi() {
   print('didi');
 }
+
+void log() {
+  print('log');
+}
