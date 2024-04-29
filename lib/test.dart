@@ -3,5 +3,5 @@ void main() {
 }
 
 void zzzz() {
-  print('zzzz');
+  print('额呃呃呃呃呃呃');
 }
