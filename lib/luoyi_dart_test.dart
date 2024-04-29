@@ -13,9 +13,9 @@ void didi() {
 }
 
 void log() {
-  print('logxxxxx');
+  print('log');
 }
 
 void wawa() {
-  print('axasxasxasxas');
+  print('wawa');
 }
