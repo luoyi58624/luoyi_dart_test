@@ -15,3 +15,7 @@ void didi() {
 void log() {
   print('log');
 }
+
+void wawa() {
+  print('wawa');
+}
